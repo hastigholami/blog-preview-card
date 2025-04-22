@@ -11,6 +11,7 @@ body {
     width: 400px;
     border-radius: 20px;
     border: solid 1px;
+    box-shadow: black 7px 7px 0px;
 }
 .blog-thumbnail {
     padding: 30px;
@@ -18,11 +19,11 @@ body {
 .blog-pic {
     padding: 0px;
 }
-img {
+.blog-image {
     border-radius: 15px;
 }
 .blog-info {
-    padding: 0px 30px 0px 30px;
+    padding: 0px 30px 20px 30px;
 }
 button {
     background-color: hsl(47, 88%, 63%);
@@ -30,6 +31,7 @@ button {
     padding: 7px 13px;
     border-radius: 5px;
     border: none;
+    font-weight: bolder;
 }
 .blog-container {
     color: hsl(0, 0%, 7%);
@@ -43,13 +45,19 @@ button {
 .blog-title-container {
     color: hsl(0, 0%, 42%);
     font-size: 15px;
+    font-weight: normal;
     margin: 0px 0px;
 }
 .blog-writer {
     color: hsl(0, 0%, 7%);
+    font-weight: bold;
     margin: 0px;
     display: flex;
     align-items: center;
-
+}
+.blog-writer-image {
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
 }
 
