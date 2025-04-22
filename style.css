@@ -1,21 +1,22 @@
 body {
     background: hsl(47, 88%, 63%);
     font-family: Arial;
-    height: 100vh;    
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
 }
 .blog-preview-card-preview {
     background-color: hsl(0, 0%, 100%);
     width: 400px;
 }
 .blog-thumbnail {
-    background-color: red;
     padding: 30px;
 }
 .blog-pic {
     padding: 0px;
 }
 .blog-info {
-    background-color: blue;
     padding: 0px 30px 0px 30px;
 }
 button {
@@ -24,7 +25,6 @@ button {
     padding: 7px 13px;
 }
 .blog-container {
-    background-color: green;
     color: hsl(0, 0%, 7%);
 }
 .blog-title {
@@ -39,15 +39,14 @@ button {
     margin: 0px 0px;
 }
 .blog-writer {
-    background-color: blueviolet;
     color: hsl(0, 0%, 7%);
     margin: 0px;
+    display: flex;
+    align-items: center;
+
 }
 .blog-writer-image {
-    background-color: aliceblue;
-    width: 65px;
 }
 .blog-writer-name {
-    background-color: brown;
 }
 
