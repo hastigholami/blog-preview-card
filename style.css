@@ -1,6 +1,7 @@
 body {
     background: hsl(47, 88%, 63%);
-    font-family: Arial;    
+    font-family: Arial;
+    height: 100vh;    
 }
 .blog-preview-card-preview {
     background-color: hsl(0, 0%, 100%);
@@ -44,6 +45,7 @@ button {
 }
 .blog-writer-image {
     background-color: aliceblue;
+    width: 65px;
 }
 .blog-writer-name {
     background-color: brown;
