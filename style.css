@@ -1,3 +1,25 @@
 body {
     background: hsl(47, 88%, 63%);
+    
+}
+.blog-preview-card-preview {
+    background-color: hsl(0, 0%, 100%);
+}
+.blog-thumbnail {
+    background-color: red;
+}
+.blog-pic {
+    
+}
+.blog-info {
+    background-color: blue;
+}
+.blog-container {
+    background-color: green;
+}
+.blog-title {
+    background-color: yellow;
+}
+.blog-writer {
+    background-color: blueviolet;
 }
