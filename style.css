@@ -9,12 +9,17 @@ body {
 .blog-preview-card-preview {
     background-color: hsl(0, 0%, 100%);
     width: 400px;
+    border-radius: 20px;
+    border: solid 1px;
 }
 .blog-thumbnail {
     padding: 30px;
 }
 .blog-pic {
     padding: 0px;
+}
+img {
+    border-radius: 15px;
 }
 .blog-info {
     padding: 0px 30px 0px 30px;
@@ -23,6 +28,8 @@ button {
     background-color: hsl(47, 88%, 63%);
     color: hsl(0, 0%, 7%);
     padding: 7px 13px;
+    border-radius: 5px;
+    border: none;
 }
 .blog-container {
     color: hsl(0, 0%, 7%);
