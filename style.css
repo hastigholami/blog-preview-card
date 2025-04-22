@@ -1,5 +1,6 @@
 body {
     background: hsl(47, 88%, 63%);
+    font-family: Arial;
     
 }
 .blog-preview-card-preview {
@@ -14,12 +15,31 @@ body {
 .blog-info {
     background-color: blue;
 }
+button {
+    background-color: hsl(47, 88%, 63%);
+    color: hsl(0, 0%, 7%);
+}
 .blog-container {
     background-color: green;
+    color: hsl(0, 0%, 7%);
 }
 .blog-title {
-    background-color: yellow;
+    font-size: 23px;
+    font-weight: bold;
+    color: hsl(47, 88%, 63%);
+}
+.blog-title-container {
+    color: hsl(0, 0%, 42%);
+    font-size: 15px;
 }
 .blog-writer {
     background-color: blueviolet;
+    color: hsl(0, 0%, 7%);
 }
+.blog-writer-image {
+    background-color: aliceblue;
+}
+.blog-writer-name {
+    background-color: brown;
+}
+
