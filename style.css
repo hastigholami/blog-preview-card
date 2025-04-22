@@ -1,23 +1,26 @@
 body {
     background: hsl(47, 88%, 63%);
-    font-family: Arial;
-    
+    font-family: Arial;    
 }
 .blog-preview-card-preview {
     background-color: hsl(0, 0%, 100%);
+    width: 400px;
 }
 .blog-thumbnail {
     background-color: red;
+    padding: 30px;
 }
 .blog-pic {
-    
+    padding: 0px;
 }
 .blog-info {
     background-color: blue;
+    padding: 0px 30px 0px 30px;
 }
 button {
     background-color: hsl(47, 88%, 63%);
     color: hsl(0, 0%, 7%);
+    padding: 7px 13px;
 }
 .blog-container {
     background-color: green;
@@ -27,14 +30,17 @@ button {
     font-size: 23px;
     font-weight: bold;
     color: hsl(47, 88%, 63%);
+    margin: 30px 0px;
 }
 .blog-title-container {
     color: hsl(0, 0%, 42%);
     font-size: 15px;
+    margin: 0px 0px;
 }
 .blog-writer {
     background-color: blueviolet;
     color: hsl(0, 0%, 7%);
+    margin: 0px;
 }
 .blog-writer-image {
     background-color: aliceblue;
