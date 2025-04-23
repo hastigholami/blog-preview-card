@@ -1,12 +1,12 @@
+# Frontend Mentor - Blog preview card
+
+![Screenshot](./pre.jpg)
+
 # Blog preview card
 
 A simple responsive QR Code card component built using **HTML** and **CSS**. This project is part of a challenge from [Frontend Mentor](https://www.frontendmentor.io).
 
 ## Overview
-
-### Screenshot
-
-- (./images/preview.jpg)
 
 ### Links
 
