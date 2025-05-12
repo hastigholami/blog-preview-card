@@ -1,10 +1,6 @@
-# Frontend Mentor - Blog preview card
-
-![Screenshot](./pre.jpg)
-
 # Blog preview card
 
-A simple responsive QR Code card component built using **HTML** and **CSS**. This project is part of a challenge from [Frontend Mentor](https://www.frontendmentor.io).
+![Screenshot](./pre.jpg)
 
 ## Overview
 
@@ -23,11 +19,9 @@ A simple responsive QR Code card component built using **HTML** and **CSS**. Thi
 ### What I Learned
 
 In this project, I practiced:
-- Structuring a simple HTML page
-- Applying responsive styling using CSS
-- Working with images and fonts
-- Using Git and GitHub for version control
-- Hosting projects live using GitHub Pages
+- Using 'flexbox' to create flexible and responsive layout
+- Key Flexbox properties: 
+'display: flex;' , 'justify-content' , 'align-items'
 
 ### Continued Development
 
@@ -45,3 +39,7 @@ Next, I want to:
 ## Acknowledgments
 
 Thanks to [Frontend Mentor](https://www.frontendmentor.io) for the amazing challenges!
+
+## Note
+
+This project was originally completed in April 2025. This README was updated later for better clarity and documentation.
