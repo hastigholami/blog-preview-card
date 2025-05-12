@@ -27,7 +27,6 @@ In this project, I practiced:
 
 Next, I want to:
 - Improve my CSS skills
-- Start learning JavaScript
 - Complete more Frontend Mentor challenges
 
 ## Author
